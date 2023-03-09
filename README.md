@@ -1,13 +1,7 @@
 Deep Learning Course: Fundementals and applications
 ---------
 
-This course is designed get learners up on the fundamentals and applications. It is designed for people who comfortable reading and writing intermediate Python code. 
-
-The course is a mix of lecturs and hands-on with many applications.
-
-Materials are both in PyTorch and TensorFlow/Keras.
-
-It can be delivered as a 1/2 day, 1 day, 3 day, or more workshop.
+This course covers the fundamentals and applications of deep learning (DL). It is designed to quickly get learners up to speed with applied DL as practiced in industry. The course is best for people who are comfortable reading and writing intermediate Python code. It is a mix of lectures and hands-on activities. Materials are both in PyTorch and TensorFlow/Keras. It can be delivered in 1/2 day, 1 day, 3 days, or longer.
 
 Topics
 ----------
