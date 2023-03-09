@@ -28,5 +28,5 @@ Topics
 - Word embeddings
 - Applications: Image classification, natural language processing (NLP) 
 
-I would be delighted to chat with you about delivering this course (or delveloping others) for your organization.
+I would be delighted to chat with you about delivering this course (or developing others) for your organization.  
 [Send me email](mailto:bspiering@gmail.com)
